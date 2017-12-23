@@ -4,6 +4,9 @@ tagline: el mejor lugar del mundo
 disqus:
   comments: false
   disqus_shortname: 
+menu:
+- {name: 'About', path: 'menu', url: 'acercade.html'}
+- {name: 'Writing', path: 'menu', url: 'textos.html'}
 pagination:
   next_page: Newer
   previous_page: Older
