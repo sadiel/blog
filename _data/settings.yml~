@@ -4,6 +4,7 @@ tagline: el mejor lugar del mundo
 disqus:
   comments: false
   disqus_shortname: 
+google-ID: UA-80213386-1
 pagination:
   next_page: Newer
   previous_page: Older
