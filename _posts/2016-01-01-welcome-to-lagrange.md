@@ -1,22 +1,14 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
-categories: journal
-tags: [documentation,sample]
-image: mountains.jpg
+title: Objetivo
+author: Sadiel
+categories: []
+tags: []
+image: "/uploads/2017/12/23/tourism-2650818_1280.jpg"
+date: 2017-12-23 19:00:00 -0500
 ---
+Canadá fue mi objetivo desde que era un niño. Todo empezó por un libro que vi con muchas fotos de este país con paisajes de bosques, lagos y montañas. Casi quince años más tarde empecé a estudiar francés, descubrí inmigración Québec y gracias a eso vine a vivir a Montréal. Pasé dos años en la metrópoli y me mudé a la banlieue. Después de varios trabajos, conocer la cultura local y experimentar el clima; cambio mis conceptos para enfocarme en un nuevo lugar de residencia: Columbia Británica.
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+No hay mucha información de hispanoparlantes sobre la vida en Vancouver y alrededores. Mucho menos del resto de la provincia. Por eso escribo este blog, para compartir mis experiencias sobre este nuevo desafío.
 
-### Getting Started
-
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
-
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2015-09-09-text-formatting %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+Todo sera basado en mis vivencias e investigaciones. Lo que es bueno para uno no tiene por que serlo para otros, por tanto no espero estén de acuerdo precisamente con mis opiniones. Es solo que este lugar del planeta se ha vuelto mi pasión en los ultimos años y estoy seguro que es lo mismo para mucha gente.
