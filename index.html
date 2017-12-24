@@ -16,12 +16,12 @@ title: Home
   <p>
     {{ post.content | strip_html | truncate: 350 }} <a href="{{ site.github.url }}{{ post.url }}">Leer más</a>
     <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> <span class="post-date">
-  {% assign d = page.date | date: "%-d"  %}
+  {% assign d = post.date | date: "%-d"  %}
   {% case d %}
     {% when '1' %} Primero
     {% else %}{{ d }}
   {% endcase %} de
-  {% assign m = page.date | date: "%-m" %}
+  {% assign m = post.date | date: "%-m" %}
   {% case m %}
     {% when '1' %}Enero
     {% when '2' %}Febrero
@@ -36,7 +36,7 @@ title: Home
     {% when '11' %}Noviembre
     {% when '12' %}Diciembre
   {% endcase %} de
-  {{ page.date | date: "%Y" }}
+  {{ post.date | date: "%Y" }}
 </span></span>
   </p>
 </div>
