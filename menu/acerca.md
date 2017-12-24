@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Acerca de
+title: acerca
 ---
 Blog que inmigración a Columbia Británica
