@@ -6,7 +6,7 @@ disqus:
   disqus_shortname: 
 menu:
 - {name: 'Acerca', path: 'menu', url: 'acerca.html'}
-- {name: 'Textos', path: 'menu', url: 'textos.html'}
+- {name: 'Artículos', path: 'menu', url: 'articulos.html'}
 pagination:
   next_page: Newer
   previous_page: Older
