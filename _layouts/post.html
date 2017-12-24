@@ -34,12 +34,6 @@ layout: default
     {% when '12' %}Diciembre
   {% endcase %} de
   {{ page.date | date: "%Y" }}
-  por
-  {% if page.author %}
-    {{ page.author }}
-  {% else %}
-    {{ site.data.authors.primary.name }}
-  {% endif %}
 </span>
 
 {% include social-sharing.html %}
