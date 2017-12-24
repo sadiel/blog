@@ -13,16 +13,28 @@ layout: default
 {{ content }}
 
 <span class="post-date">
-  {{ site.data.settings.post_date_prefix }}
   {% assign d = page.date | date: "%-d"  %}
-  {{ page.date | date: "%B" }}
   {% case d %}
-    {% when '1' or '21' or '31' %}{{ d }}st
-    {% when '2' or '22' %}{{ d }}nd
-    {% when '3' or '23' %}{{ d }}rd
-    {% else %}{{ d }}th{% endcase %},
+    {% when '1' %} Primero
+    {% else %}{{ d }}
+  {% endcase %} de
+  {% assign m = page.date | date: "%-m" %}
+  {% case m %}
+    {% when '1' %}Enero
+    {% when '2' %}Febrero
+    {% when '3' %}Marzo
+    {% when '4' %}Abril
+    {% when '5' %}Mayo
+    {% when '6' %}Junio
+    {% when '7' %}Julio
+    {% when '8' %}Agosto
+    {% when '9' %}Semtiebre
+    {% when '10' %}Octubre
+    {% when '11' %}Noviembre
+    {% when '12' %}Diciembre
+  {% endcase %} de
   {{ page.date | date: "%Y" }}
-  by
+  por
   {% if page.author %}
     {{ page.author }}
   {% else %}
