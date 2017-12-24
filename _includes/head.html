@@ -28,25 +28,6 @@
     src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
   </script>
 
-  <script>
- // Docs at http://simpleweatherjs.com
-$(document).ready(function() {
-  $.simpleWeather({
-    location: 'Vancouver, BC',
-    woeid: '',
-    unit: 'f',
-    success: function(weather) {
-      html = '<p>'+weather.temp+'&deg;'+weather.units.temp+'</p>';
-  
-      $("#weather").html(html);
-    },
-    error: function(error) {
-      $("#weather").html('<p>'+error+'</p>');
-    }
-  });
-});
-  </script>
-
   {% include google-analytics.html %}
 
   <!-- Use Jekyll SEO plugin -->
