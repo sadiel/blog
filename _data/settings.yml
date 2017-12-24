@@ -5,8 +5,8 @@ disqus:
   comments: false
   disqus_shortname: 
 menu:
-- {name: 'Acerca de', path: 'menu', url: 'acercade.html'}
-- {name: 'Textos', path: 'menu', url: 'textos.html'}
+- {name: 'acerca', path: 'menu', url: 'acercade.html'}
+- {name: 'textos', path: 'menu', url: 'textos.html'}
 pagination:
   next_page: Newer
   previous_page: Older
