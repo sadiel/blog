@@ -18,12 +18,12 @@ title: Textos
     <li itemscope>
       <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
       <p class="post-date"><span><i class="fa fa-calendar" aria-hidden="true"></i> <span class="post-date">
-  {% assign d = page.date | date: "%-d"  %}
+  {% assign d = post.date | date: "%-d"  %}
   {% case d %}
     {% when '1' %} Primero
     {% else %}{{ d }}
   {% endcase %} de
-  {% assign m = page.date | date: "%-m" %}
+  {% assign m = post.date | date: "%-m" %}
   {% case m %}
     {% when '1' %}Enero
     {% when '2' %}Febrero
