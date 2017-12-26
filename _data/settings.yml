@@ -4,6 +4,9 @@ tagline: el mejor lugar del mundo
 disqus:
   comments: false
   disqus_shortname: 
+
+google-ID: 'UA-44877923-2'
+
 menu:
 - {name: 'Acerca', path: 'menu', url: 'acerca.html'}
 - {name: 'Artículos', path: 'menu', url: 'articulos.html'}
