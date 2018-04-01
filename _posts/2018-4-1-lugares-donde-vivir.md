@@ -14,11 +14,18 @@ Aqui les anuncio lugares que me interesan para vivir. En zonas abordables, con a
 </li>
 <li><strong>Port Coquitlam:</strong> Más barato que Coquitlam pero se necesita tomar un bus para acceder al Skytrain.
 </li>
-<li><strong>Pitt Meadows:</strong></li> Abordable y también cerca de las montañas. El tren West Coast Express te lleva hasta Vancouver.
-<li><strong>Maple Ridge:</strong></li> Similar a Pitt Meadows, lo que esta un poquito mas lejos.
-<li><strong>Mission:</strong></li> Aqui finaliza el trayecto el West Coast Express.
-<li><strong>Surrey:</strong></li> Municipalidad bastante grande. Con mala reputación los barrios de Whalley y Newton, pero el resto es muy bueno para las familias.
-<li><strong>White Rock:</strong></li> Es la zona más soleada del Lower Mainland, con playas y muy buena para las familias. Pero esta lejos del Skytrain y los alquileres son caros.
-<li><strong>Langley:</strong></li> Es otra municipalidad grande tambien. Los alquileres son relativamente abordables y hay buses que te llevan hasta el Skytrain pero el trayecto es mas lejos que desde Surrey.
-<li><strong>Abbotsford:</strong></li> Se necesita manejar o tomar un bus para tomar el tren en Mission. Alquileres mucho mas abordables que en los lugares descritos anteriormente.
+<li><strong>Pitt Meadows:</strong> Abordable y también cerca de las montañas. El tren West Coast Express te lleva hasta Vancouver.
+</li>
+<li><strong>Maple Ridge:</strong> Similar a Pitt Meadows, lo que esta un poquito mas lejos.
+</li>
+<li><strong>Mission:</strong> Aqui finaliza el trayecto el West Coast Express.
+</li>
+<li><strong>Surrey:</strong> Municipalidad bastante grande. Con mala reputación los barrios de Whalley y Newton, pero el resto es muy bueno para las familias.
+</li>
+<li><strong>White Rock:</strong> Es la zona más soleada del Lower Mainland, con playas y muy buena para las familias. Pero esta lejos del Skytrain y los alquileres son caros.
+</li>
+<li><strong>Langley:</strong> Es otra municipalidad grande tambien. Los alquileres son relativamente abordables y hay buses que te llevan hasta el Skytrain pero el trayecto es mas lejos que desde Surrey.
+</li>
+<li><strong>Abbotsford:</strong> Se necesita manejar o tomar un bus para tomar el tren en Mission. Alquileres mucho mas abordables que en los lugares descritos anteriormente.
+</li>
 </ul>
