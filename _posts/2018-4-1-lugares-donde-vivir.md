@@ -20,7 +20,7 @@ Aqui les anuncio lugares que me interesan para vivir. En zonas abordables, con a
 </li>
 <li><strong>Mission:</strong> Aqui finaliza el trayecto el West Coast Express.
 </li>
-<li><strong>Surrey:</strong> Municipalidad bastante grande. Con mala reputación los barrios de Whalley y Newton, pero el resto es muy bueno para las familias.
+<li><strong>Surrey:</strong> Municipalidad bastante grande. Con mala reputación los barrios de Whalley y Newton, pero el resto es muy bueno para las familias y con acceso a buses que te llevan hasta el SkyTrain.
 </li>
 <li><strong>White Rock:</strong> Es la zona más soleada del Lower Mainland, con playas y muy buena para las familias. Pero esta lejos del Skytrain y los alquileres son caros.
 </li>
